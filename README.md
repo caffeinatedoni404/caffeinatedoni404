@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @caffeinatedoni404
 - 👀 I’m interested in python and graphics
-- 🌱 I’m currently learning CSS
-- 💞️ I’m looking to collaborate on nothing for now 
+- 🌱 I’m currently learning ML and Deep Learning
 - 📫 Mail me at arkayswami2003@gmail.com
 
 <!---
